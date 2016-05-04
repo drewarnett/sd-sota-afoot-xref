@@ -1,0 +1,51 @@
+Book Chapter,Book Trip Number,Book Trip Name,SOTA reference,SOTA name,SOTA points,notes
+5,5,Monserate Mountain,W6/CT-235,Monserate Mtn.,1,
+8,1,Twin Peaks,W6/SC-453,Twin Peaks,1,
+8,4,Woodson Mountain – East Approach,W6/SC-187,Woodson Mountain,2,
+8,5,Woodson Mountain – West Approach,W6/SC-187,Woodson Mountain,2,
+8,6,Iron Mountain,W6/SC-212,2703,2,
+9,1,Black Mountain – North Slope,W6/SC-338,Black Mountain,1,
+9,2,Black Mountain – South Slope,W6/SC-338,Black Mountain,1,
+12,1,Cowles Mountain – South Approach,W6/SC-335,Cowles Mountain,1,
+12,2,Cowles Mountain – East Approach,W6/SC-335,Cowles Mountain,1,
+12,3,Cowles Mountain – Northeast Approach,W6/SC-335,Cowles Mountain,1,
+13,4,El Capitan Open Space Preserve,W6/SC-115,El Cajon Mountain,2,
+14,3,Viejas Mountain,W6/CC-039,Viejas Mountain,4,
+14,6,Sycuan Peak,W6/SC-203,Sycuan Peak,2,
+16,1,Dripping Springs Trail,W6/CT-124,Agua Tibia Mountain,4,described hike gets you very close
+16,2,Agua Tibia Loop,W6/CT-124,Agua Tibia Mountain,4,
+17,10,Oak Grove to High Point,W6/CT-020,Palomar Mountain,6,
+18,2,Host Springs Mountain,W6/CD-010,Hot Springs Mountain,6,
+18,5,Combs Peak,W6/SD-011,Combs Peak,6,
+19,3,Black Mountain,W6/CT-157,Black Mountain,4,
+20,6,Eagle Peak,W6/SC-156,Eagle Peak,2,
+22,3,Middle Peak,W6/SC-024,Middle Peak,6,
+22,7,Cuyamaca Peak,W6/CC-014,Cuyamaca Peak,6,
+22,8,Stonewall Peak,W6/SC-029,Stonewall Peak,6,
+22,18,Guatay Mountain,W6/CC-025,Guatay Mountain,4,
+24,2,Lawson Peak,W6/SC-099,Gaskill Peak,2,
+24,6,Corte Madera Mountain,W6/CC-026,Corte Madera Mountain,4,
+24,7,Morena Butte,W6/SC-092,Morena Butte,2,
+25,1,Otay Mountain,W6/SC-128,Otay Mountain,2,
+25,2,Tecate Peak,W6/CC-044,Tecate Peak,2,
+26,2,Sheep Canyon,W6/SD-078,Square Top,2,
+27,2,Indianhead Mountain,W6/SD-138,Indianhead,2,
+27,5,San Ysidro Mountain,W6/CD-011,San Ysidro Mountain,6,questionable because book gets you up on the ridge but not all the way there.  See also trip 10.
+27,5,San Ysidro Mountain,W6/SD-017,6020,6,see above.  Is this a useful route to this peak?
+28,1,Coyote Mountain – South Spur,W6/SD-255,Coyote Mountain,2,
+28,2,Coyote Mountain – East Approach,W6/SD-255,Coyote Mountain,2,
+29,1,Peak 6582,W6/CT-078,Lorenzens Peak,6,
+29,2,Rabbit Peak via Villager Peak,W6/CT-096,Villager Peak,6,
+29,2,Rabbit Peak via Villager Peak,W6/CT-075,Rabbit Peak,6,
+29,4,Mile-High Mountain,W6/CT-111,Mile High Mountain,4,
+30,3,West Butte Borrego Mountain,W6/SD-529,West Butte,1,"East Butte is nearby, doable?"
+31,4,Grapevine Mountain/Bitter Creek,W6/CD-018,Grapevine Mountain,2,
+31,8,Pinyon Ridge,W6/SD-082,Pinyon Ridge,4,questionable because book gets you on ridge and fairly close.
+32,2,Sunset Mountain,W6/SD-185,Sunset Mountain,2,
+33,2,Granite Mountain,W6/SD-033,Granite Mountain,6,
+33,7,Whale Peak – North Approach,W6/SD-046,Whale Peak,4,
+33,8,Whale Peak – West Approach,W6/SD-046,Whale Peak,4,
+33,9,Pinyon Mountain – South Approach,W6/SD-454,Pinyon Mountains (HP),4,this should be named “Pinyon Mountain” in SOTA DB. have emailed in correction request
+34,2,Alma Wash to Starfish Cove,W6/SD-202,3583,2,suggested by trip description but not part of it
+37,1,Mine Peak,W6/SD-396,Mine Benchmark,1,
+38,3,Mortero Palms to Goat Canyon,W6/SD-090,Jacumba Benchmark,4,suggested by trip description but not part of it
