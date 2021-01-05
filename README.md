@@ -1,5 +1,8 @@
 San Diego SOTA Afoot & Afield Cross-reference
 =============================================
+
+Jump directly to the cross-reference [HERE](/SD%20SOTA%20afoot%20and%20afield%20cross%20references.csv).
+
 This project contains a cross reference between SOTA summits and
 trips described in the 5th printing 2012 version of _Afoot & Afield
 San Diego County:  A comprehensive hiking guide_ copyright 2007 Jerry Schad.
